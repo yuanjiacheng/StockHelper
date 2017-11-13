@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Config>
+  <ForecastLevels>
+    <ForecastLevel>
+      <Level>
+        推荐买入
+      </Level>
+      <Describe>
+        
+      </Describe>
+      <Condition>
+        0.06
+      </Condition>
+    </ForecastLevel>
+  </ForecastLevels>
+</Config> 
